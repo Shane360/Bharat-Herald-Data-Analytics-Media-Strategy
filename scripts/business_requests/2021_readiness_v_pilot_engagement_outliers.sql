@@ -1,0 +1,4 @@
+-- BR6: 2021 Readiness v. Pilot Engagement Outlier
+-- For 2021, identify the highest digital readiness score among the bottom 3 in digital pilot engagement
+-- readiness score = AVG(smartphone_rate, internet_rate, literacy_rate)
+--
