@@ -19,21 +19,31 @@ The pilot achieved decent adoption (54.5% engagement rate on average) but low re
 
 ### 3.	Revenue fluctuations: 
 From the data, these factors contributed to the decline:
-•	Concerns regarding price hikes: caused the -16.69% YoY revenue decline in 2020; a loss of ~ INR 21 million in Government revenue, and ~INR 29 million losses from FMCGs.
-•	Seasonal drop in demand led to declines in Government revenue in Q3 2019, Q1 2020, and Q3 2023. This, however, did not affect the Real Estate and Automobile industries as we recorded a surge in YoY revenue by 14.6% (for the Real Estate category in 2020) and 32.39% for the Automobile category in 2024.
-•	Real Estate slowdown might have contributed to the decline in Real Estate YoY revenues in 2022 (-13.73%), but it was not an isolated reason. 
+
+- Concerns regarding price hikes: caused the -16.69% YoY revenue decline in 2020; a loss of ~ INR 21 million in Government revenue, and ~INR 29 million losses from FMCGs.
+
+- Seasonal drop in demand led to declines in Government revenue in Q3 2019, Q1 2020, and Q3 2023. This, however, did not affect the Real Estate and Automobile industries as we recorded a surge in YoY revenue by 14.6% (for the Real Estate category in 2020) and 32.39% for the Automobile category in 2024.
+
+- Real Estate slowdown might have contributed to the decline in Real Estate YoY revenues in 2022 (-13.73%), but it was not an isolated reason. 
 
 ## Recommendations
 ### 1.	Relaunch Digital Platforms: 
-•	Resolve UI/UX issues on WhatsApp, Web, and e-Mobile platforms. 
-•	Run targeted ads on social media platforms.
-•	Focus relaunch on key growth cities such as Varanasi, Mumbai, and Ahmedabad.
-•	Build a functional platform ecosystem that will unlock new ad revenue streams. 
+
+- Resolve UI/UX issues on WhatsApp, Web, and e-Mobile platforms.
+
+- Run targeted ads on social media platforms.
+
+- Focus relaunch on key growth cities such as Varanasi, Mumbai, and Ahmedabad.
+
+- Build a functional platform ecosystem that will unlock new ad revenue streams. 
 
 ### 2.	Market Re-engagement:
-•	Strengthen presence in cities with potential and consolidate presence in high-performing cities such as Lucknow and Patna.
+- Strengthen presence in cities with potential and consolidate presence in high-performing cities such as Lucknow and Patna.
 
 ### 3.	Restore Advertiser Confidence: 
-•	Introduce discounted ad bundles and highlight expanded reach potential (including foreign audiences).
-•	Rebuild trust with FMCGs and the Government through transparency and measurable ROI
+
+- Introduce discounted ad bundles and highlight expanded reach potential (including foreign audiences).
+
+- Rebuild trust with FMCGs and the Government through transparency and measurable ROI
+
 You can view the much more technical work (data pre-processing, SQL queries, Dashboard) behind this report [here](https://github.com/Shane360/Bharat-Herald-Media-Strategy/tree/main).
