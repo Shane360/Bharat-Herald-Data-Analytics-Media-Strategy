@@ -1,6 +1,6 @@
 # Bharat Herald: Post-COVID Analysis and Recovery.
 ## Introduction
-We explored the sharp post-COVID decline in Bharat Herald's print readership (from 1.2 million to 560,000 daily copies from 2019 to 2024), and challenges with its digital platforms, using data provided by Code Basics. The objective is to analyze Bharat Herald's print and digital post-COVID performance, identify factors behind the circulation, ad revenue decline, and develop strategies for a relaunch and optimization of ad revenue. Tools used for this analysis: MySQL and Power BI.
+We explored the sharp post-COVID decline in Bharat Herald's print readership (from 1.2 million to 560,000 daily copies from 2019 to 2024), and challenges with its digital platforms, using data provided by [Code Basics](https://codebasics.io/challenges/codebasics-resume-project-challenge/21). The objective is to analyze Bharat Herald's print and digital post-COVID performance, identify factors behind the circulation and ad revenue decline, and develop strategies for a relaunch and optimization of ad revenue - Tools used for this analysis: MySQL and Power BI.
 
 ## Executive Summary
 COVID-era disruptions had dire effects on legacy media companies, who witnessed a 67% revenue decline in the first quarter of 2021 and with advertising revenues falling by 40% in 2020 from INR 205 billion in 2019 to INR 122 billion. 
@@ -36,4 +36,4 @@ From the data, these factors contributed to the decline:
 ### 3.	Restore Advertiser Confidence: 
 •	Introduce discounted ad bundles and highlight expanded reach potential (including foreign audiences).
 •	Rebuild trust with FMCGs and the Government through transparency and measurable ROI
-You can view the much more technical work (data pre-processing, SQL queries, Dashboard) behind this report here.
+You can view the much more technical work (data pre-processing, SQL queries, Dashboard) behind this report [here](https://github.com/Shane360/Bharat-Herald-Media-Strategy/tree/main).
