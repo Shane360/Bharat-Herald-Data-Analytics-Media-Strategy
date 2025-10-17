@@ -24,7 +24,14 @@ From the data, these factors contributed to the decline:
 
 - Seasonal drop in demand led to declines in Government revenue in Q3 2019, Q1 2020, and Q3 2023. This, however, did not affect the Real Estate and Automobile industries as we recorded a surge in YoY revenue by 14.6% (for the Real Estate category in 2020) and 32.39% for the Automobile category in 2024.
 
-- Real Estate slowdown might have contributed to the decline in Real Estate YoY revenues in 2022 (-13.73%), but it was not an isolated reason. 
+- Real Estate slowdown might have contributed to the decline in Real Estate YoY revenues in 2022 (-13.73%), but it was not an isolated reason.
+
+
+<img width="1263" height="709" alt="{082330AC-214A-4093-8BB5-C1097029471D}" src="https://github.com/user-attachments/assets/02a7696a-6c81-4942-8417-8fbb0128572f" />
+
+<img width="1260" height="707" alt="{15A8CA5E-B87F-4C5C-83A3-834D93F5AB16}" src="https://github.com/user-attachments/assets/05c03e16-d4c3-4b35-bf8b-ccf9900c99c7" />
+
+<img width="1243" height="700" alt="{0C2D85E5-AC56-443E-AC12-4EEAC6254EDC}" src="https://github.com/user-attachments/assets/50b8ef28-aac7-4fb6-bb49-4cfdc6c2ea05" />
 
 ## Recommendations
 ### 1.	Relaunch Digital Platforms: 
