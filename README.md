@@ -27,11 +27,8 @@ From the data, these factors contributed to the decline:
 - Real Estate slowdown might have contributed to the decline in Real Estate YoY revenues in 2022 (-13.73%), but it was not an isolated reason.
 
 
-<img width="1263" height="709" alt="{082330AC-214A-4093-8BB5-C1097029471D}" src="https://github.com/user-attachments/assets/02a7696a-6c81-4942-8417-8fbb0128572f" />
+![Bharat Dashboard Overview](https://github.com/Shane360/Bharat-Herald-Media-Strategy/blob/main/bharat_dashboard_overview.png)
 
-<img width="1260" height="707" alt="{15A8CA5E-B87F-4C5C-83A3-834D93F5AB16}" src="https://github.com/user-attachments/assets/05c03e16-d4c3-4b35-bf8b-ccf9900c99c7" />
-
-<img width="1243" height="700" alt="{0C2D85E5-AC56-443E-AC12-4EEAC6254EDC}" src="https://github.com/user-attachments/assets/50b8ef28-aac7-4fb6-bb49-4cfdc6c2ea05" />
 
 ## Recommendations
 ### 1.	Relaunch Digital Platforms: 
