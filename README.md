@@ -1,6 +1,10 @@
 # Bharat Herald: Post-COVID Analysis and Recovery.
 ## Introduction
-We explored the sharp post-COVID decline in Bharat Herald's print readership (from 1.2 million to 560,000 daily copies from 2019 to 2024), and challenges with its digital platforms, using data provided by [Code Basics](https://codebasics.io/challenges/codebasics-resume-project-challenge/21). The objective is to analyze Bharat Herald's print and digital post-COVID performance, identify factors behind the circulation and ad revenue decline, and develop strategies for a relaunch and optimization of ad revenue - Tools used for this analysis: MySQL and Power BI.
+We explored the sharp post-COVID decline in Bharat Herald's print readership (from 1.2 million to 560,000 daily copies from 2019 to 2024), and challenges with its digital platforms, using data provided by [Code Basics](https://codebasics.io/challenges/codebasics-resume-project-challenge/21). The objective is to analyze Bharat Herald's print and digital post-COVID performance, identify factors behind the circulation and ad revenue decline, and develop strategies for a relaunch and optimization of ad revenue. Tools used for this analysis: MySQL and Power BI.
+
+
+<img width="1920" height="1080" alt="Slide1" src="https://github.com/user-attachments/assets/a6515e11-59f9-4759-a8fc-3cf04dc94960" />
+
 
 ## Executive Summary
 COVID-era disruptions had dire effects on legacy media companies, who witnessed a 67% revenue decline in the first quarter of 2021 and with advertising revenues falling by 40% in 2020 from INR 205 billion in 2019 to INR 122 billion. 
@@ -14,8 +18,18 @@ Despite the above, the data shows clear digital adoption trends in key cities li
 
 Circulation dropped by an alarming 85.7% from a total of ~207 million copies in 2019 (~159.5 million copies in Hindi and ~47 million copies in English) to ~29.5 million copies in total in 2024. This is because of post-pandemic shifts to digital consumption.
 
+
+<img width="1920" height="1080" alt="Slide2" src="https://github.com/user-attachments/assets/7a870bb2-ba82-424e-90b7-bd5dd1b06682" />
+
+
+
+
 ### 2.	Digital pilot: 
 The pilot achieved decent adoption (54.5% engagement rate on average) but low retention due to UX/UX issues such as long load times, small fonts, and inability to zoom. These issues influence bounce rate, which was a high 65.85% on average across all cities. Other factors, such as limited internet access and smartphone access, led to the initial failure in a few cities.
+
+
+<img width="1920" height="1080" alt="Slide4" src="https://github.com/user-attachments/assets/960f3d4d-26b3-4680-b4de-8d1b8a489047" />
+
 
 ### 3.	Revenue fluctuations: 
 From the data, these factors contributed to the decline:
@@ -27,7 +41,7 @@ From the data, these factors contributed to the decline:
 - Real Estate slowdown might have contributed to the decline in Real Estate YoY revenues in 2022 (-13.73%), but it was not an isolated reason.
 
 
-![Bharat Dashboard Overview](https://github.com/Shane360/Bharat-Herald-Media-Strategy/blob/main/bharat_dashboard_overview.png)
+<img width="1920" height="1080" alt="Slide3" src="https://github.com/user-attachments/assets/007f1c40-2aa3-4a05-9a80-a392c953a325" />
 
 
 ## Recommendations
